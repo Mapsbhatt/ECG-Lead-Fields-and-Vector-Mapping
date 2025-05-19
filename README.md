@@ -54,6 +54,8 @@ Computed for angle `a = 0°` and `–90°`:
 - Performed matrix multiplication with 6 lead vectors
 - Plotted waveforms: `VI`, `VII`, `VIII`, `aVR`, `aVL`, `aVF`
 
+![Fig 2](assets/fig2.jpg)
+
 🧠 **Conclusion**: Vector projection yields realistic frontal ECG traces with efficient computation.
 
 ---
@@ -70,6 +72,9 @@ Dipole moved to `(0, 5)` and `(0, –5)`:
 
 📊 See: `Fig 3A` and `Fig 3B`
 
+![Fig 3A](assets/fig3A.png)
+![Fig 3B](assets/fig3B.png)
+
 ---
 
 ### 4️⃣ Asymmetric Electrode Angles
@@ -82,6 +87,9 @@ Lead vector triangles were skewed as expected.
 ✅ Answer: Still form triangles, but not equilateral. They mirror electrode geometry.
 
 📐 See: `Fig 4A`, `Fig 4B`
+
+![Fig 4A](assets/fig4A.png)
+![Fig 4B](assets/fig4B.png)
 
 ---
 
@@ -113,6 +121,7 @@ Used reciprocal setup to:
 🧠 Matches previous results via direct method.
 
 📍 See: `Fig 5` for quiver plot
+![Fig 5](assets/fig5.png)
 
 ---
 
@@ -129,6 +138,7 @@ Used reciprocal setup to:
 
 🧠 Most leads still form an **equilateral triangle**, except LI.  
 📊 See: `Fig 7`
+![Fig 7](assets/fig7.png)
 
 ---
 
