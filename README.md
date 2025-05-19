@@ -53,7 +53,7 @@ Computed for angle `a = 0°` and `–90°`:
 - Imported heart dipole vector `H(t)` (2500 samples)
 - Performed matrix multiplication with 6 lead vectors
 - Plotted waveforms: `VI`, `VII`, `VIII`, `aVR`, `aVL`, `aVF`
-- Refer [Part_2.m] 
+- Refer ![Part_2.m] 
 
 ![Fig 2](assets/fig2.jpg)
 
