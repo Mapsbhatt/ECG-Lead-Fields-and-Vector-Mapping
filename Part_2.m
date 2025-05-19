@@ -1,5 +1,5 @@
 % Load Hvector2D data
-H = load('/Users/mananbhatt/Downloads/Hvector2D.txt');  % 2500 x 2 matrix
+H = load('/Users/path/Hvector2D.txt');  % 2500 x 2 matrix
 
 % Define lead vectors (Lx, Ly for each lead)
 L = [54.7638, 27.3375, -27.4263, -41.0507, 41.0950, -0.0444;  % Lx
