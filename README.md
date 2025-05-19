@@ -146,13 +146,10 @@ Used reciprocal setup to:
 
 | File | Description |
 |------|-------------|
-| `HW5-COMSOL-1.mph` | Main simulation model (Parts 1–6) |
-| `HW5-COMSOL-2.mph` | Model with inhomogeneous medium (Part 7) |
-| `Bhatt-HW5-Doc.pdf` | Final results, tables, and figures |
+| `COMSOL-1.mph` | Main simulation model (Parts 1–6) |
+| `COMSOL-2.mph` | Model with inhomogeneous medium (Part 7) |
+| `Supplement-Doc.docx` | Final results, tables, and figures |
 | `Hvector2D.mat` | Dipole vector input for ECG synthesis |
-| `HW5-Movie-1.gif` | Optional animated sweep |
-| `TableX.xlsx` | Full table data for plotting |
-| `FigX.png` | Figures referenced in summary above |
 
 ---
 
